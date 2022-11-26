@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>Samskivert.React</PackageId>
+    <Version>1.0.0</Version>
+    <LangVersion>8.0</LangVersion>
+    <Company>Peace and Love, Inc.</Company>
+    <WarningLevel>5</WarningLevel>
+  </PropertyGroup>
+
+</Project>

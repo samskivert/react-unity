@@ -1,0 +1,18 @@
+{
+  "name": "samskivert.react",
+  "displayName": "React",
+  "description": "A grab bag of reactive programming primitives.",
+  "version": "1.0.0",
+  "unity": "2021.2",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samskivert/react-unity.git"
+  },
+  "author": {
+    "name": "Michael Bayne",
+    "email": "mdb@samskivert.com",
+    "url": "https://github.com/samskivert"
+  },
+  "dependencies": {}
+}
